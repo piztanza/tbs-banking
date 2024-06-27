@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "TBS",
   description: "TBS is a Transaction Business Service for Everyone",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/logo.png'
   }
 };
 
